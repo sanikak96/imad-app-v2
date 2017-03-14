@@ -1,12 +1,12 @@
 body {
     font-family: sans-serif;
-    background-color: pink;
+    background-color: black;
     margin-top: 75px;
 }
 .myart {
             margin: 0 auto;
             max-width: 800px;
-            color: black;
+            color: white;
             font-family: sans-serif;
             padding-top: 60px;
             padding-right: 20px;
